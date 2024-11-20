@@ -40,15 +40,3 @@ TARGET_UPSTREAM = ""
 # wrangler.toml (wrangler v3.79.0^)
 [observability.logs]
 enabled = true
-
-# wrangler.toml (wrangler v3.79.0^)
-[observability.logs]
-enabled = true
-
-# wrangler.toml (wrangler v3.79.0^)
-[observability.logs]
-enabled = true
-
-# wrangler.toml (wrangler v3.79.0^)
-[observability.logs]
-enabled = true
